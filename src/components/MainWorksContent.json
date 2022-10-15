@@ -1,0 +1,19 @@
+[
+    {
+        "Image": "./assets/images/work1.png",
+        "Title": "Portfolio",
+        "Description": "Você pode conferir o código deste portfolio, dentre outros projetos que tenho, em minha página do Github.",
+        "Sidenote": "O código deste projeto é livre para modificação/estudo.",
+        "Github": "https://github.com/WesleyDettmer/wesley-dettmer-portfolio",
+        "Tags": ["Vue3", "ThreeJS", "AnimeJS","TailwindCSS"]
+    },
+    {
+        "Image": "./assets/images/work2.png",
+        "Title": "Twitter Bot que acompanha quem seguiu quem",
+        "Description": "Um bot simples que utiliza API do Twitter para verificar e avisar, por meio de perfil configurado, novos seguidores dos usuários cadastrados em planilha.",
+        "Sidenote": "O código deste projeto é livre para modificação/estudo.",
+        "Github": "https://github.com/WesleyDettmer/twitter-new-followers-tracker",
+        "Tags": ["Python", "Twitter API"]
+    }
+
+]

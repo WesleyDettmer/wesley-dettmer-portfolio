@@ -1,0 +1,126 @@
+[
+    {
+        "type": "frontend",
+        "technologies": [
+            {
+                "title": "Angular",
+                "image": "devicon-angularjs-plain"
+            },
+            {
+                "title": "Vue",
+                "image": "devicon-vuejs-plain"
+            },
+            {
+                "title": "Vuetify",
+                "image": "devicon-vuetify-plain"
+            },
+            {
+                "title": "React",
+                "image": "devicon-react-original"
+            },
+            {
+                "title": "Redux",
+                "image": "devicon-redux-original"
+            },
+            {
+                "title": "ThreeJS",
+                "image": "devicon-threejs-original"
+            },
+            {
+                "title": "Javascript (ES6)",
+                "image": "devicon-javascript-plain"
+            },
+            {
+                "title": "Typescript",
+                "image": "devicon-typescript-plain"
+            },
+            {
+                "title": "HTML5",
+                "image": "devicon-html5-plain"
+            },
+            {
+                "title": "CSS3",
+                "image": "devicon-css3-plain"
+            },
+            {
+                "title": "SASS",
+                "image": "devicon-sass-plain"
+            },
+            {
+                "title": "Tailwind",
+                "image": "devicon-tailwindcss-plain"
+            }
+        ]
+    },
+    {
+        "type": "backend",
+        "technologies": [
+            {
+                "title": ".NET Core",
+                "image": "devicon-dotnetcore-plain"
+            },
+            {
+                "title": "C#",
+                "image": "devicon-csharp-plain"
+            },
+            {
+                "title": "C++",
+                "image": "devicon-cplusplus-plain"
+            },
+            {
+                "title": "Arduino",
+                "image": "devicon-arduino-plain"
+            },
+            {
+                "title": "Python",
+                "image": "devicon-python-plain"
+            },
+            {
+                "title": "NodeJS",
+                "image": "devicon-nodejs-plain"
+            },
+            {
+                "title": "MongoDB",
+                "image": "devicon-mongodb-plain"
+            },
+            {
+                "title": "SQL Server",
+                "image": "devicon-microsoftsqlserver-plain"
+            },
+            {
+                "title": "MySQL",
+                "image": "devicon-mysql-plain"
+            }
+        ]
+    },
+    {
+        "type": "tools",
+        "technologies": [
+            {
+                "title": "VS Code",
+                "image": "devicon-vscode-plain"
+            },
+            {
+                "title": "Visual Studio",
+                "image": "devicon-visualstudio-plain"
+            },
+            {
+                "title": "Windows",
+                "image": "devicon-windows8-plain"
+            }
+        ]
+    },
+    {
+        "type": "cloud",
+        "technologies": [
+            {
+                "title": "Azure",
+                "image": "devicon-azure-plain"
+            },
+            {
+                "title": "Amazon AWS",
+                "image": "devicon-amazonwebservices-plain"
+            }
+        ]
+    }
+]
