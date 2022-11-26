@@ -94,7 +94,6 @@ const applyTheme = () => {
 	isThemeLoaded.value = true;
 	body.className = '';
 	body.classList.add('set-palette');
-	console.log('Theme applied');
 };
 
 setDefaultTheme();

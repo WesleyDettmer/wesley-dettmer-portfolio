@@ -51,11 +51,6 @@ export default {
 	components: {
 		SkillBarContent
 	},
-	methods: {
-		fetch: function () {
-			console.log(document.getElementById('render'));
-		}
-	},
 
 	setup() {
 		let contentRenderer = ref('');

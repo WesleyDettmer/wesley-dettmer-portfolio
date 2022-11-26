@@ -150,14 +150,12 @@ export default {
 
 <style>
   .navbar {
-    /* background-color: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0)); */
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
     z-index: 50;
     left: 50%;
     transform: translateX(-50%);
     transition: color 500ms ease-in-out;
-    /* box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.1); */
   }
 
   .navbar > * {
@@ -237,7 +235,6 @@ export default {
   .router-link-exact-active {
     /* color: white; */
     font-weight: bold;
-    text-decoration: underline;
     cursor: default;
     color: var(--text-highlight);
     text-underline-offset: 4.1px;
